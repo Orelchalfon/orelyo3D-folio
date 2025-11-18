@@ -1,15 +1,17 @@
 import { Link } from "react-router-dom";
-
+import useLanguage from "../hooks/useLanguage";
 import { socialLinks } from "../constants";
 
 const Footer = () => {
+  const { t } = useLanguage();
+
   return (
     <footer className='footer font-poppins'>
       <hr className='border-slate-200' />
 
       <div className='footer-container'>
         <p>
-          © 2025 <strong>Orel Chalfon</strong>. All rights reserved.
+          {t('footer.copyright')} <strong>{t('footer.name')}</strong>. {t('footer.rights')}
         </p>
 
         <div className='flex gap-3 justify-center items-center'>

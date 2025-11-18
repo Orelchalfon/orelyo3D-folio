@@ -1,0 +1,101 @@
+{
+  "navbar": {
+    "about": "אודות",
+    "projects": "פרויקטים"
+  },
+  "home": {
+    "stage1": {
+      "hi": "שלום, אני",
+      "name": "אור-אל חלפון",
+      "title": "מפתח \"פולסטאק\" מישראל"
+    },
+    "stage2": {
+      "text": "עבדתי עם חברות רבות ורכשתי מיומנויות רבות לאורך הדרך",
+      "button": "למד עוד"
+    },
+    "stage3": {
+      "text": "הובלתי פרויקטים רבים להצלחה לאורך השנים. סקרן לגבי ההשפעה?",
+      "button": "בקר את התיק עבודות שלי"
+    },
+    "stage4": {
+      "text": "צריך פרויקט או מחפש מפתח? אני במרחק של כמה הקשות",
+      "button": "בואו נדבר"
+    }
+  },
+  "about": {
+    "greeting": "שלום, אני",
+    "name": "אור-אל חלפון",
+    "bio": "בוגר תואר ראשון בהנדסת תוכנה מישראל, מתמחה בפיתוח Fullstack עם טכנולוגיות web מודרניות. בעל ניסיון בבניית אפליקציות מדרגיות באמצעות React.js/TypeScript, Next.js, Node.js, Express, MongoDB, Supabase ו-Prisma. נלהב ליצירת חוויית משתמש חלקה עם קוד נקי ותחזוקתי.",
+    "skills": "המיומנויות שלי",
+    "workExperience": "ניסיון תעסוקתי.",
+    "workExperienceIntro": "עבדתי על פרויקטים חדשניים, בניית אפליקציות מונעות AI ושיתוף פעולה עם צוותים חדשניים. הנה המסע המקצועי שלי:",
+    "experiences": {
+      "raayenai": {
+        "title": "מפתח FullStack",
+        "company": "RaayenAI (tutiAI)",
+        "points": [
+          "פיתחתי אפליקציית web מלאה מונעת AI המשלבת OpenAI ליצירת תוכן דינמי.",
+          "יישמתי אימות משתמשים מאובטח ובקרת גישה מבוססת תוכנית מנוי באמצעות Supabase.",
+          "אפשרתי עיבוד נתונים בזמן אמת ותקשורת API חלקה.",
+          "בניתי ממשק משתמש רספונסיבי עם אנימציות מתקדמות באמצעות Framer Motion ו-TailwindCSS.",
+          "הפצתי את האפליקציה באמצעות צינורות CI/CD מודרניים (Netlify, Vercel, Render)."
+        ]
+      }
+    }
+  },
+  "projects": {
+    "title": "ה",
+    "titleHighlight": "פרויקטים",
+    "description": "יצאתי למסע של פרויקטים רבים לאורך השנים, אבל אלה הקרובים ביותר ללבי. רבים מהם הם קוד פתוח, אז אם נתקלת במשהו שמעורר את עניינך, תרגיש חופשי לחקור את בסיס הקוד ולתרום את הרעיונות שלך לשיפורים נוספים. שיתוף הפעולה שלך מוערך מאוד!",
+    "liveLink": "קישור חי",
+    "items": {
+      "ocDev": {
+        "name": "תיק עבודות OC Dev",
+        "description": "תיק עבודות מקצועי המציג מומחיות בפיתוח Full-stack. נבנה עם TypeScript, כולל UI/UX מודרני ועיצוב רספונסיבי."
+      },
+      "placeShare": {
+        "name": "Place Share",
+        "description": "אפליקציה מלאה המאפשרת למשתמשים לשתף ולגלות מקומות אהובים. נבנה עם MERN stack כולל מפות אינטראקטיביות ואימות משתמשים."
+      },
+      "zentry": {
+        "name": "Zentry עם Framer Motion",
+        "description": "חוויית web מונפשת מודרנית המציגה טכניקות מתקדמות של Framer Motion. כולל מעברים חלקים ואלמנטים אינטראקטיביים מרתקים."
+      },
+      "codesandbox": {
+        "name": "שיבוט CodeSandbox",
+        "description": "שיבוט עורך קוד מקוון מבוסס TypeScript. מיישם ביצוע קוד בזמן אמת ותכונות עריכה שיתופית."
+      }
+    }
+  },
+  "contact": {
+    "title": "צור קשר",
+    "form": {
+      "name": "שם",
+      "email": "אימייל",
+      "message": "ההודעה שלך",
+      "namePlaceholder": "יוחנן",
+      "emailPlaceholder": "yohanan@gmail.com",
+      "messagePlaceholder": "כתוב את מחשבותיך כאן...",
+      "sending": "שולח...",
+      "submit": "שלח"
+    },
+    "alerts": {
+      "success": "תודה על ההודעה שלך 😃",
+      "error": "לא קיבלתי את ההודעה שלך 😢"
+    }
+  },
+  "cta": {
+    "text1": "יש לך פרויקט בראש?",
+    "text2": "בואו נבנה משהו ביחד!",
+    "button": "צור קשר"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "name": "אורל חלפון",
+    "rights": "כל הזכויות שמורות."
+  },
+  "common": {
+    "success": "הצלחה",
+    "failed": "נכשל"
+  }
+}

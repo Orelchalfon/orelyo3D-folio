@@ -1,0 +1,102 @@
+{
+  "navbar": {
+    "about": "About",
+    "projects": "Projects"
+  },
+  "home": {
+    "stage1": {
+      "hi": "Hi, I'm",
+      "name": "Orel",
+      "title": "A Fullstack Developer from Israel"
+    },
+    "stage2": {
+      "text": "Worked with many companies and picked up many skills along the way",
+      "button": "Learn more"
+    },
+    "stage3": {
+      "text": "Led multiple projects to success over the years. Curious about the impact?",
+      "button": "Visit my portfolio"
+    },
+    "stage4": {
+      "text": "Need a project done or looking for a dev? I'm just a few keystrokes away",
+      "button": "Let's talk"
+    }
+  },
+  "about": {
+    "greeting": "Hello, I'm",
+    "name": "Orel Chalfon",
+    "bio": "B.Sc. Software Engineering graduate from Israel, specializing in fullstack development with modern web technologies. Experienced in building scalable applications using React.js/TypeScript, Next.js, Node.js, Express, MongoDB, Supabase, and Prisma. Passionate about creating seamless user experiences with clean, maintainable code.",
+    "skills": "My Skills",
+    "workExperience": "Work Experience.",
+    "workExperienceIntro": "I've worked on cutting-edge projects, building AI-powered applications and collaborating with innovative teams. Here's my professional journey:",
+    "experiences": {
+      "raayenai": {
+        "title": "FullStack Developer",
+        "company": "RaayenAI (tutiAI)",
+        "points": [
+          "Developed an AI-powered full-stack web application integrating OpenAI for dynamic content generation.",
+          "Implemented secure user authentication and subscription plan-based access control using Supabase.",
+          "Enabled real-time data processing and seamless RESTful API communication.",
+          "Built responsive UI with advanced animations using Framer Motion and TailwindCSS.",
+          "Deployed application using modern CI/CD pipelines (Netlify, Vercel, Render)."
+        ]
+      }
+    }
+  },
+  "projects": {
+    "title": "My",
+    "titleHighlight": "Projects",
+    "description": "I've embarked on numerous projects throughout the years, but these are the ones I hold closest to my heart. Many of them are open-source, so if you come across something that piques your interest, feel free to explore the codebase and contribute your ideas for further enhancements. Your collaboration is highly valued!",
+    "liveLink": "Live Link",
+    "items": {
+      "ocDev": {
+        "name": "OC Dev Portfolio",
+        "description": "Professional portfolio showcasing full-stack development expertise. Built with TypeScript, featuring modern UI/UX and responsive design."
+      },
+      "placeShare": {
+        "name": "Place Share",
+        "description": "Full-stack application enabling users to share and discover favorite places. Built with MERN stack featuring interactive maps and user authentication."
+      },
+      "zentry": {
+        "name": "Zentry with Framer Motion",
+        "description": "Modern animated web experience showcasing advanced Framer Motion techniques. Features smooth transitions and engaging interactive elements."
+      },
+      "codesandbox": {
+        "name": "CodeSandbox Clone",
+        "description": "TypeScript-based online code editor clone. Implements real-time code execution and collaborative editing features."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Your Message",
+      "namePlaceholder": "John",
+      "emailPlaceholder": "John@gmail.com",
+      "messagePlaceholder": "Write your thoughts here...",
+      "sending": "Sending...",
+      "submit": "Submit"
+    },
+    "alerts": {
+      "success": "Thank you for your message 😃",
+      "error": "I didn't receive your message 😢"
+    }
+  },
+  "cta": {
+    "text1": "Have a project in mind?",
+    "text2": "Let's build something together!",
+    "button": "Contact"
+  },
+  "footer": {
+    "copyright": "© 2025",
+    "name": "Orel Chalfon",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "success": "Success",
+    "failed": "Failed"
+  }
+}
+

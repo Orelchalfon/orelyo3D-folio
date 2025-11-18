@@ -111,55 +111,17 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
-        iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-    {
-        title: "React Native Developer",
-        company_name: "Tesla",
-        icon: tesla,
-        iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-    {
-        title: "Web Developer",
-        company_name: "Shopify",
-        icon: shopify,
-        iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-    {
-        title: "Full stack Developer",
-        company_name: "Meta",
+        title: "FullStack Developer",
+        company_name: "RaayenAI (tutiAI)",
         icon: meta,
-        iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        iconBg: "#6366f1",
+        date: "2025",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Developed an AI-powered full-stack web application integrating OpenAI for dynamic content generation.",
+            "Implemented secure user authentication and subscription plan-based access control using Supabase.",
+            "Enabled real-time data processing and seamless RESTful API communication.",
+            "Built responsive UI with advanced animations using Framer Motion and TailwindCSS.",
+            "Deployed application using modern CI/CD pipelines (Netlify, Vercel, Render).",
         ],
     },
 ];
@@ -210,5 +172,5 @@ export const projects = [
         name: 'CodeSandbox Clone',
         description: 'TypeScript-based online code editor clone. Implements real-time code execution and collaborative editing features.',
         link: 'https://github.com/orelchalfon/codesandbox-clone',
-    }
-];
+     }
+]; 
